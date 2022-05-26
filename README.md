@@ -7,9 +7,9 @@ Amelyik meghajtóra telepítettük, ott az xampp mappán belül a htdocs mappáb
 Ezután el kell indítanunk az XAMPP-ot és a Control Panel-en az Apache és MySQL modulokat.
 
 Az Adatbázis mappán belül található az adatbázis, amit be kell importálnunk a phpMyAdmin-ban. Ehhez meg kell nyitnunk az XAMPP Control Paneljét és a MySQL sorában található Admin gombra kattintva érhetjük el a phpMyAdmin felületét, ami egy böngészőablakban nyílik meg.
-Itt az Importálást kell kiválasztanunk, majd a Tallózás gomra kattintva kiválasztanunk az importálandó adatbázist. (burgeretterem.sql)
+Itt az Importálást kell kiválasztanunk, majd a Tallózás gombra kattintva kiválasztanunk az importálandó adatbázist. (burgeretterem.sql)
 
-Majd a Forráskód mappán belül a VizsgaremekAPI-t is.
+Majd a Forráskód mappán belül a VizsgaremekAPI-t is el kell indítanunk.
 
 Ha ezekkel meg vagyunk, akkor a Hamburgerező főoldalát a localhoston tudjuk elérni, a következő címet megadva a böngésző url címében:
 localhost/BurgerEtterem_Vizsgaremek/index.php
@@ -17,3 +17,6 @@ localhost/BurgerEtterem_Vizsgaremek/index.php
 Az asztali alkalmazás forráskódja a Forráskód/AsztaliAlkalmazas mappában található.
 
 A telepítő a Telepito/Asztali-ban található, a setup.exe-re kattintva elindul a telepítés, utána egyből elindul az applikáció, és a start menüben is megtalálható.
+
+
+Én a weboldal kialakításáért voltam felelős. Elsősorban a kinézetért és az oldal felépítésé-ért. Az adatbázis kapcsolatokat, a termékek adatainak a betöltését és regisztrációt, bejelentkezést közösen hoztuk létre.
