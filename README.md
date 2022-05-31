@@ -18,5 +18,9 @@ Az asztali alkalmazás forráskódja a Forráskód/AsztaliAlkalmazas mappában t
 
 A telepítő a Telepito/Asztali-ban található, a setup.exe-re kattintva elindul a telepítés, utána egyből elindul az applikáció, és a start menüben is megtalálható.
 
+Bejelentkezni az admin felületre :
+Felhasználónév: admin | Jelszó: admin -al lehet.
+Ezután lehetséges több admin felhasználó regisztrálása a felhasználók panelről.
+
 
 Én a weboldal kialakításáért voltam felelős. Elsősorban a kinézetért és az oldal felépítésé-ért. Az adatbázis kapcsolatokat, a termékek adatainak a betöltését és regisztrációt, bejelentkezést közösen hoztuk létre.
